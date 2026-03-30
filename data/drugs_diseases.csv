@@ -1,0 +1,11 @@
+Disease,Drug,Relation
+Diabetes,Metformin,TREATS
+Diabetes,Insulin,TREATS
+Hypertension,Amlodipine,TREATS
+Hypertension,Lisinopril,TREATS
+Asthma,Albuterol,TREATS
+Asthma,Budesonide,TREATS
+Depression,Sertraline,TREATS
+Depression,Fluoxetine,TREATS
+Infection,Amoxicillin,TREATS
+Infection,Azithromycin,TREATS
